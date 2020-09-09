@@ -7,4 +7,11 @@ var array = []
   return array
 }
 
-function johnLennonFacts
+function johnLennonFacts(fact){
+var lennonArray = []
+let i = 0
+while (i < fact.length){
+  lennonArray.push(fact[i] '!!!')
+} 
+return lennonArray
+}
