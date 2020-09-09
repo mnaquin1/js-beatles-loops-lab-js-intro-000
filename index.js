@@ -12,6 +12,7 @@ var lennonArray = []
 let i = 0
 while (i < fact.length){
   lennonArray.push(fact[i] + '!!!')
+  i++
 }
 return lennonArray
 }
